@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **contactme.phumet@gmail.com**
 
-- 📄 Know about my experiences (phumet.me)
+- 📄 Know about my experiences **phumet.me**
 
 - ⚡ Fun fact **I am Funny**
 
