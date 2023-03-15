@@ -14,8 +14,6 @@
 
 - 📄 Know about my experiences <a href="https://phumet.me/">**phumet.me**</a>
 
-- ⚡ Fun fact **I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/gotji.phumet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gotji.phumet" height="30" width="40" /></a>
