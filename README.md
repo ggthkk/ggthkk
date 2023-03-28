@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phumet</h1>
-<h3 align="center">Full stack developer junior</h3>
+<h3 align="center">FrontEnd developer junior</h3>
 <img align="right" style="width:100%;height:0;padding-bottom:73%;position:relative;" src="https://media3.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif?cid=ecf05e47nebvuceu380u0gl2ulahr07zp1qq6qqk4ab8k3an&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggthkk&label=Profile%20views&color=0e75b6&style=flat" alt="ggthkk" /> </p>
