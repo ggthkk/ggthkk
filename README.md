@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Phumet</h1>
-<h3 align="center">Front-End developer junior</h3>
+<h3 align="center">Front-End developer Mid-level</h3>
 <img align="right" style="width:100%;height:0;padding-bottom:73%;position:relative;" src="https://media3.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif?cid=ecf05e47nebvuceu380u0gl2ulahr07zp1qq6qqk4ab8k3an&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggthkk&label=Profile%20views&color=0e75b6&style=flat" alt="ggthkk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **All chat Project**
 
 - 🌱 I’m currently learning **VueJs**
 
