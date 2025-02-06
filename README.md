@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **contactme.phumet@gmail.com**
 
-- 📄 Know about my experiences <a href="https://phumet.me/">**phumet.me**</a>
+- 📄 Know about my experiences <a href="https://phumet.com/">**phumet.com**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
