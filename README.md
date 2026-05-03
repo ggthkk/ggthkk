@@ -22,11 +22,7 @@ Fullstack dev. I build web apps with Vue, TypeScript, and Go — mostly back-off
 
 ## Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,nuxtjs,react,ts,js,vite,tailwind,pinia,go,nodejs,bun,postgres,mysql,mongodb,redis,firebase,docker,gcp,aws,grafana,netlify,git,figma&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue,nuxtjs,react,ts,js,vite,tailwind,pinia,go,nodejs,bun,postgres,mysql,mongodb,redis,firebase,docker,gcp,aws,grafana,netlify,git,figma&theme=light" />
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,ts,js,vite,tailwind,pinia,go,nodejs,bun,postgres,mysql,mongodb,redis,firebase,docker,gcp,aws,grafana,netlify,git,figma" alt="Tech Stack" />
-</picture>
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,ts,js,vite,tailwind,pinia,go,nodejs,bun,postgres,mysql,mongodb,redis,firebase,docker,gcp,aws,grafana,netlify,git,figma" alt="Tech Stack" />
 
 <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" height="22" title="ClickUp" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="22" title="Postman" />
