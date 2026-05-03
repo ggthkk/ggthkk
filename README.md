@@ -22,60 +22,37 @@ Fullstack dev. I build web apps with Vue, TypeScript, and Go — mostly back-off
 
 ## Stack
 
-**Frontend**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,nuxtjs,react,ts,js,vite,tailwind,pinia,go,nodejs,bun,postgres,mysql,mongodb,redis,firebase,docker,gcp,aws,grafana,netlify,git,figma&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue,nuxtjs,react,ts,js,vite,tailwind,pinia,go,nodejs,bun,postgres,mysql,mongodb,redis,firebase,docker,gcp,aws,grafana,netlify,git,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,ts,js,vite,tailwind,pinia,go,nodejs,bun,postgres,mysql,mongodb,redis,firebase,docker,gcp,aws,grafana,netlify,git,figma" alt="Tech Stack" />
+</picture>
+
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" height="22" title="ClickUp" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="22" title="Postman" />
+<img src="https://img.shields.io/badge/Bruno-EF6C00?style=flat-square&logo=bruno&logoColor=white" height="22" title="Bruno" />
+
+**AI Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
-</p>
-
-**Database & Infra**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
-**Workflow**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile%2FScrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Windsurf-09B6A2?style=for-the-badge&logo=codeium&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28" />
 </p>
 
 ---
 
 ## GitHub Activity
 
-<div align="center">
-
-<img src="metrics.languages.svg" alt="Languages & Habits" />
-
-<img src="metrics.isocalendar.svg" alt="Isometric Calendar" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="metrics.languages.svg" alt="Languages & Habits" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="metrics.isocalendar.svg" alt="Isometric Calendar" width="100%" />
+    </td>
+  </tr>
+</table>
