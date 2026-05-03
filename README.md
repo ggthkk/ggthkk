@@ -19,7 +19,12 @@ Fullstack dev. I build web apps with Vue, TypeScript, and Go — mostly back-off
 
 <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,ts,js,vite,tailwind,pinia,go,nodejs,bun,postgres,mysql,mongodb,redis,firebase,docker,gcp,aws,grafana,netlify,git,figma" alt="Tech Stack" />
 
-<p><img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Bruno-EF6C00?style=flat-square&logo=bruno&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Aitigravity-000000?style=flat-square&logo=rocket&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Beekeeper_Studio-FFC107?style=flat-square&logo=adminer&logoColor=black" height="22" /></p>
+<p>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Bruno-EF6C00?style=for-the-badge&logo=bruno&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Beekeeper_Studio-FFC107?style=for-the-badge&logo=adminer&logoColor=black" height="28" />
+</p>
 
 **AI Tools**
 
@@ -29,6 +34,7 @@ Fullstack dev. I build web apps with Vue, TypeScript, and Go — mostly back-off
   <img src="https://img.shields.io/badge/Windsurf-09B6A2?style=for-the-badge&logo=codeium&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Aitigravity-000000?style=for-the-badge&logo=rocket&logoColor=white" height="28" />
 </p>
 
 ---
