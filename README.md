@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>Gotji ' Phumet</h3>
+<h2>Gotji ' Phumet</h2>
 <p>Fullstack Developer &nbsp;·&nbsp; Bangkok, Thailand</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=8B949E&center=true&vCenter=true&width=520&lines=Vue+%7C+TypeScript+%7C+Golang.;4%2B+years+building+enterprise+web+apps.;Scrum+Master+%26+Technical+Lead.)](https://git.io/typing-svg)
