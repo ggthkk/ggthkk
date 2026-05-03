@@ -35,16 +35,8 @@ Fullstack dev. I build web apps with Vue, TypeScript, and Go — mostly back-off
 
 ## GitHub Activity
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <img src="metrics.languages.svg" alt="Languages" width="100%" />
-    </td>
-    <td width="34%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=ggthkk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B949E&icon_color=58A6FF&text_color=8B949E&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="33%" valign="top">
-      <img src="metrics.isocalendar.svg" alt="Isometric Calendar" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="metrics.languages.svg" width="32%" alt="Languages" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ggthkk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B949E&icon_color=58A6FF&text_color=8B949E&rank_icon=github&include_all_commits=true&count_private=true" width="32%" alt="GitHub Stats" />&nbsp;<img src="metrics.isocalendar.svg" width="32%" alt="Isometric Calendar" />
+
+</div>
